@@ -16,3 +16,8 @@ hr {
     border: 1px solid #E76F51;
     width: 100px;
 }
+
+.review-star {
+    width: 25px;
+    margin-left: 30%;
+}
