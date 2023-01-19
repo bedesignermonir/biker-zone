@@ -21,3 +21,7 @@ hr {
     width: 25px;
     margin-left: 30%;
 }
+
+.f-list li {
+    list-style: none;
+}
