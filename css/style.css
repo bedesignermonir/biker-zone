@@ -1,8 +1,18 @@
-.btn-ornage {
+.btn-orange {
     background-color: #E76F51;
+    color: white;
 }
 
 .carousel-bg {
     background-color: rgba(231, 111, 81, 0.1);
     ;
+}
+
+.text-orange {
+    color: #E76F51;
+}
+
+hr {
+    border: 1px solid #E76F51;
+    width: 100px;
 }
